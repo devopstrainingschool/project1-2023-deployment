@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: project1-2023-service
 spec:
-  type: Loadbalancer
+  type: LoadBalancer
   selector:
     app: project1-2023
   ports:

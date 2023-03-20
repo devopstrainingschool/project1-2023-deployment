@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: project1-2023 # give a container any name you want
-        image: devopstrainingschool/project1-2023:28
+        image: devopstrainingschool/project1-2023:29
         ports:
         - containerPort: 8080  # put the container port here
